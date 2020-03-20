@@ -57,7 +57,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Аксессуары",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -280,7 +280,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/10-329-0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-329-1.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/10-329-358x382.jpg",
                 "alt": "",
                 "title": "",
