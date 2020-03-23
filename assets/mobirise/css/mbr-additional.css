@@ -736,67 +736,48 @@ section.lazy-placeholder:after {
 .cid-rTN1h3ECpT .card {
   padding-bottom: 1.5rem;
 }
-.cid-rTN2bRfzAT {
+.cid-rTZkPfyf0l {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #af6074;
 }
-.cid-rTN2bRfzAT .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-rTZkPfyf0l h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-rTN2bRfzAT .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-rTZkPfyf0l p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-rTN2bRfzAT .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-rTZkPfyf0l .mbr-section-btn {
+  padding-top: 2.5rem;
 }
-.cid-rTN2bRfzAT .mbr-slider .modal-body .close {
-  background: #1b1b1b;
+.cid-rTZkPfyf0l .mbr-section-btn a {
+  margin: 0;
 }
-.cid-rTN2bRfzAT .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-rTZkPfyf0l .mbr-text {
+  color: #767676;
+}
+.cid-rTZkPfyf0l .card-wrapper {
   height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rTN2bRfzAT .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
+@media (max-width: 767px) {
+  .cid-rTZkPfyf0l .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
 }
-.cid-rTN2bRfzAT .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+.cid-rTZkPfyf0l .mbr-text,
+.cid-rTZkPfyf0l .mbr-section-btn {
+  color: #ffffff;
 }
-.cid-rTN2bRfzAT .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
+.cid-rTZkPfyf0l .card-title {
+  color: #000000;
 }
-.cid-rTN2bRfzAT .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+.cid-rTZkPfyf0l H2 {
+  color: #000000;
 }
 .cid-rTN1VMoeP7 {
   padding-top: 90px;
@@ -810,4 +791,10 @@ section.lazy-placeholder:after {
 }
 .cid-rTN1VMoeP7 div.b {
   padding-top: 2rem;
+}
+.cid-rTN1VMoeP7 H2 {
+  color: #000000;
+}
+.cid-rTN1VMoeP7 H5 {
+  color: #000000;
 }
